@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // リポジトリ名が clasmon なら "/clasmon/"。リポジトリ名を変えたらここも変える。
 export default defineConfig({
   plugins: [react()],
-  base: "/clasmon/",
+  base: "/classmon/",
 });
