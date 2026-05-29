@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef, useCallback } from "react";
 // ============================================================
 // ★ここを自分のApps ScriptのURLに書き換えてください★
 // ============================================================
-const SCRIPT_URL = "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzETtHvc_ImtUKp0KIpWnRaaueQ7p19XKG8BP0j0QahJM8EJGrOx9b4wk8XRJ81xv_t/exec";
 // ============================================================
 
 const POLL_INTERVAL = 10000;
